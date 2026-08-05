@@ -12,7 +12,7 @@ This project was planned by the author on 2024/5/10. The author started working 
 
 ## How to build?
 
-First, make sure you have ELVM in `\~/elvm`. Then run `./gen.sh`, which combines all the C files and header files into one C file: `chn.c`.
+First, make sure you have ELVM in `\~/elvm`. Then run `./gen.sh`, which combines all the C files and header files into one C file: `chn.c`. Finally, add it to the source code of `elc` in your ELVM and recompile it.
 
 The author hopes to get this backend added into the list of ELVM backends.
 
